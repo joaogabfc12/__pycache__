@@ -1,0 +1,1 @@
+Este projeto tem como objetivo criar uma janela para fazer o cadastro de um animal, pedindo iinformações comoo nome, idade, cachorro ou gato e a raça ou porte do animal. A funcioladidade que pretendo inserir, é a opção de registrar a cor da pelagem do animal, tendo um prazo de implementação até o dia 27/03/2030.
